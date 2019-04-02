@@ -13,4 +13,4 @@ Finally, here a list of dependencies, requiered to launch the project:
 - keras==2.2.4  
 - numpy==1.16.1
 - tensorflow==1.13.0
-
+We used python 3.7.1.
